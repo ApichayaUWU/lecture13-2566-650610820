@@ -10,7 +10,7 @@ export const movieDB = [
   },
   {
     id: 2,
-    title: "The Godfather",
+    title: "The Goosefather",
     rating: 9.2,
     detail:
       "The aging patriarch of an organized crime dynasty in postwar New York City transfers control of his clandestine empire to his reluctant youngest son.",
